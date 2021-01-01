@@ -1,5 +1,6 @@
 
 import './App.css';
+import SmartContract from './contracts/Migrations.json'
 
 function App() {
   return (
@@ -7,7 +8,7 @@ function App() {
       <header className="App-header">
   
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+            REEEEEEEEEEEEEEEEEE
         </p>
       </header>
     </div>
